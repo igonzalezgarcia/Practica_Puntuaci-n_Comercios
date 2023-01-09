@@ -30,4 +30,4 @@ Predict rating of nightlife businesses listed based on the reviews given by the 
 - 04_Network.ipynb
 
 ### Repository: 
-https://github.com/saulsegura/practica_puntuacion_comercios
+https://github.com/igonzalezgarcia/Practica_Puntuaci-n_Comercios
